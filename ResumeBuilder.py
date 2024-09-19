@@ -318,3 +318,4 @@ if __name__ == "__main__":
 
     convert_markdown_to_pdf(markdown_text)
 
+#open source code by Arghyadeep Paul, feel free to use or modify.
